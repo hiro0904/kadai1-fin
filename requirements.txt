@@ -1,6 +1,5 @@
 streamlit
 pandas
 Tokenizer
-StringIO
 RegexReplaceCharFilter
 Analyzer
