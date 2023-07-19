@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from janome.tokenizer import Tokenizer
-import collections
 from io import StringIO
 from janome.charfilter import RegexReplaceCharFilter
 from janome.analyzer import Analyzer
