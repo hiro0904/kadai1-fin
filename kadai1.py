@@ -3,6 +3,8 @@ import pandas as pd
 from janome.tokenizer import Tokenizer
 from janome.charfilter import RegexReplaceCharFilter
 from janome.analyzer import Analyzer
+import collections
+from io import StringIO
 
 tokenizer = Tokenizer()
 
