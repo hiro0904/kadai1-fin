@@ -20,9 +20,7 @@
 
 - 表の品詞を指定して選べるようにする
 
-## やっていないこと
-
-- web上に公開する。公式のstreamlitはinstalling requirementsのエラーで動かなかった。
+- web上に公開する
 
 ## how to use
 
