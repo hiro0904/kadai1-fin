@@ -26,3 +26,7 @@
 
 - streamlit run xxx.py のようにして実行する。streamlit、Tokenizer、pandas、collections
 が必要
+
+## hosting
+
+- https://kadai1-fin.streamlit.app/
